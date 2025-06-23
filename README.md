@@ -32,6 +32,7 @@ I craft scalable web applications with a passion for clean, efficient code. My e
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=react&logoColor=white&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
