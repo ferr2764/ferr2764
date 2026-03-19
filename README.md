@@ -5,6 +5,7 @@
 I craft scalable web applications with a passion for clean, efficient code. My expertise spans across backend development with **C#/.NET** and **Java/Spring Boot**, modern frontends with **React/Next.js**, and cloud-native deployments.
 
 🌍 Based in Vietnam  
+🌐 Portfolio: https://vo-huy-hoang.vercel.app/  
 📫 Reach me at: [vhhoang27062@gmail.com](mailto:vhhoang27062@gmail.com)  
 💬 Let's connect on [Discord](https://discord.com/users/700173378878701638)
 
